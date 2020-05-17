@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EDD562C2-8B8E-42AD-9DF3-F31BB5EA7177"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7B5E7DD-C9C3-4DFE-90FB-05184EFD2406"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "czny_test/MotionViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "249"
+            endingLineNumber = "249"
+            landmarkName = "showResults()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "223A1C7E-765E-45A2-98EB-210C556D1ECE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "czny_test/ForceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "touchesBegan(_:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F8FD38-0AA1-4B7D-B9EF-F7948956A789"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "czny_test/ForceViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "140"
+            endingLineNumber = "140"
+            landmarkName = "ForceViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "czny_test/TypingViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TypingViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - 1ff9db8e68340aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.textField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - 467c24e87025d50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.textField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - fbb5ea2107f397a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "46">
+               </Location>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - c4bfeb584ecc8ea8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.textField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - 5814c4a7ccfa0222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; czny_test.TypingViewController"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "62">
+               </Location>
+               <Location
+                  uuid = "5DFDBF1B-11BE-4955-AC68-2143A2DBEF58 - 341cea2e55651c25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "czny_test.TypingViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;czny_test.TypingViewController&gt;"
+                  moduleName = "czny_test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alexandralopes/Desktop/czny_test/czny_test/TypingViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

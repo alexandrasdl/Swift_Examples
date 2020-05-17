@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Keyboard" customModule="keyboard_test" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view autoresizesSubviews="NO" verifyAmbiguity="off" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" layoutMarginsFollowReadableWidth="YES" translatesAutoresizingMaskIntoConstraints="NO" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="261"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="teste" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="dfC-hW-2UT">
+                    <rect key="frame" x="186" y="120" width="39" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ftt-LA-CqD">
+                    <rect key="frame" x="192" y="82" width="30" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="a"/>
+                    <connections>
+                        <action selector="keyTapped:" destination="-1" eventType="touchUpInside" id="WV7-ab-kBp"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2ZZ-sl-J5H">
+                    <rect key="frame" x="255" y="82" width="30" height="30"/>
+                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                    <state key="normal" title="b"/>
+                    <connections>
+                        <action selector="keyTapped:" destination="-1" eventType="touchUpInside" id="edN-Is-dQQ"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+            <rect key="contentStretch" x="0.25" y="0.0" width="0.80000000000000004" height="1"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="dfC-hW-2UT" secondAttribute="bottom" constant="120" id="7gq-W2-NF8"/>
+                <constraint firstItem="dfC-hW-2UT" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="186" id="d9w-KI-d2v"/>
+                <constraint firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="height" multiplier="46:29" id="eus-EW-We8"/>
+                <constraint firstAttribute="trailing" secondItem="dfC-hW-2UT" secondAttribute="trailing" constant="189" id="f9N-At-Lsu"/>
+                <constraint firstItem="dfC-hW-2UT" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="186" id="g2O-Ab-lkS"/>
+                <constraint firstItem="dfC-hW-2UT" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="rG6-eW-wZN"/>
+            </constraints>
+            <simulatedTabBarMetrics key="simulatedBottomBarMetrics" translucent="NO"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <edgeInsets key="layoutMargins" top="8" left="8" bottom="8" right="8"/>
+            <point key="canvasLocation" x="-19" y="-347"/>
+        </view>
+    </objects>
+</document>
